@@ -1,6 +1,6 @@
 {
   "name": "OpenSSL-for-iOS",
-  "version": "1.0.2.d.1",
+  "version": "1.0.2.e.0",
   "authors": {
     "OpenSSL Project": "openssl-dev@openssl.org",
     "Felix Schulze": "x2on@users.noreply.github.com",
@@ -9,7 +9,7 @@
   "homepage": "http://www.openssl.org/",
   "source": {
     "git": "https://github.com/dapperstout/OpenSSL-for-iPhone.git",
-    "tag": "1.0.2.d.1"
+    "tag": "1.0.2.e.0"
   },
   "summary": "OpenSSL as an iOS Framework",
   "description": "    The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured, and Open Source\n    toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS) protocols as well as a\n    full-strength general purpose cryptography library.\n\n    This CocoaPod provides OpenSSL as an iOS framework. It uses the OpenSSL-for-iOS scripts from Felix Schulze to\n    compile OpenSSL.\n",
